@@ -1,0 +1,3 @@
+ what modifications you had to make to the project gutenberg HTML files?
+ I remove HTML <style> Tags and  the content of these <style> tags in project gutenberg HTML files and add a head tag <head> which content having the link to css file to apply.
+ This modifications use to Add 1 CSS external file to 3 project Gutenberg documents. In other words, this help 3 project Gutenberg documents having the same style
